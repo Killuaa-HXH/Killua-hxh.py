@@ -1,1 +1,1 @@
-# Killua-hxh.py
+# Killua-hxh
